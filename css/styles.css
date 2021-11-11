@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url("../font/Roboto-Regular.ttf");
+}
+
+.oferta{
+    background-color: #222222;
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #F3F3F3;
+    text-align: left;
+}
+
+.lang-moneda{
+    background-color: #222222;
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #F3F3F3;
+    text-align: right;
+}
+
+
+
+
+
+
